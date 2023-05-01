@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncInAwait", "AsyncInAwait\AsyncInAwait.csproj", "{543EAA2F-B358-4D25-B274-6CFE2D9D5B2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloom", "Bloom\Bloom.csproj", "{AB698A85-75F2-444B-9AF1-FDE019F2E315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{766577BE-FF53-48FF-AE35-D7D473FEFF65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trki", "Trki\Trki.csproj", "{0B57C5BF-B30A-4D34-AA50-95EA69B2A9EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeloZBazo", "DeloZBazo\DeloZBazo.csproj", "{714DD333-598F-4905-9EDE-B2132951D6AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncInAwaitNobel", "AsyncInAwaitNobel\AsyncInAwaitNobel.csproj", "{A31678E9-B676-48A2-B02A-3A0730F6A411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T-Rex", "Trex\T-Rex.csproj", "{7014291D-373B-4188-AAA1-A2B4B52A24B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543EAA2F-B358-4D25-B274-6CFE2D9D5B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543EAA2F-B358-4D25-B274-6CFE2D9D5B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543EAA2F-B358-4D25-B274-6CFE2D9D5B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543EAA2F-B358-4D25-B274-6CFE2D9D5B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB698A85-75F2-444B-9AF1-FDE019F2E315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB698A85-75F2-444B-9AF1-FDE019F2E315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB698A85-75F2-444B-9AF1-FDE019F2E315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB698A85-75F2-444B-9AF1-FDE019F2E315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766577BE-FF53-48FF-AE35-D7D473FEFF65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766577BE-FF53-48FF-AE35-D7D473FEFF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766577BE-FF53-48FF-AE35-D7D473FEFF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766577BE-FF53-48FF-AE35-D7D473FEFF65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B57C5BF-B30A-4D34-AA50-95EA69B2A9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B57C5BF-B30A-4D34-AA50-95EA69B2A9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B57C5BF-B30A-4D34-AA50-95EA69B2A9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B57C5BF-B30A-4D34-AA50-95EA69B2A9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714DD333-598F-4905-9EDE-B2132951D6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714DD333-598F-4905-9EDE-B2132951D6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714DD333-598F-4905-9EDE-B2132951D6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714DD333-598F-4905-9EDE-B2132951D6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31678E9-B676-48A2-B02A-3A0730F6A411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31678E9-B676-48A2-B02A-3A0730F6A411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31678E9-B676-48A2-B02A-3A0730F6A411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31678E9-B676-48A2-B02A-3A0730F6A411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7014291D-373B-4188-AAA1-A2B4B52A24B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7014291D-373B-4188-AAA1-A2B4B52A24B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7014291D-373B-4188-AAA1-A2B4B52A24B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7014291D-373B-4188-AAA1-A2B4B52A24B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {065B85D6-5D0B-4F30-BF2D-6685BDD73C65}
+	EndGlobalSection
+EndGlobal
